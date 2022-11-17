@@ -1,0 +1,15 @@
+.norris-container {
+  width: 500px;
+  margin: auto;
+}
+.jokes {
+  width: 500px;
+  height: 150px;
+  border: 3px solid black;
+  margin: auto;
+}
+
+img {
+  padding: 60px;
+  margin: auto;
+}
