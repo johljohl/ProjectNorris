@@ -1,12 +1,20 @@
+body {
+  margin: 0;
+}
 .norris-container {
-  width: 500px;
+  width: 412px;
+  height: 913px;
   margin: auto;
+  background-color: black;
 }
 .jokes {
-  width: 500px;
+  width: 405px;
   height: 150px;
   border: 3px solid black;
   margin: auto;
+  color: blue;
+  font-size: 25px;
+  text-align: center;
 }
 
 img {
