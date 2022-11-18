@@ -1,6 +1,11 @@
 body {
   margin: 0;
 }
+
+.norris-container h1 {
+  color: blue;
+}
+
 .norris-container {
   width: 412px;
   height: 913px;
@@ -15,9 +20,17 @@ body {
   color: blue;
   font-size: 25px;
   text-align: center;
+  padding-bottom: 20px;
 }
 
 img {
-  padding: 60px;
+  width: 412px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  margin: auto;
+}
+.norrisimg button {
+  display: block;
+
   margin: auto;
 }
